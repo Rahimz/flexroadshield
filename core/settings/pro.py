@@ -21,7 +21,7 @@ DATABASES = {
     }
 }
 
-CSRF_TRUSTED_ORIGINS = [
-    'https://flexroadshield.com',
-    'https://www.flexroadshield.com',
-]
+# CSRF_TRUSTED_ORIGINS = [
+#     'https://flexroadshield.com',
+#     'https://www.flexroadshield.com',
+# ]
